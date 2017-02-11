@@ -2,11 +2,12 @@
 Instagram follower, unfollower grow network
 
 Script para conseguir likes e seguidores 
-Aumentar o network
+Para Aumentar o network
+Baseado no plugin do firefox iMacro
 
 Considere fazer uma doacao donate
 
-x.mirako.org/colaboaramores
+http://x.mirako.org/colaboaramores
 
 We accept bitcoin
 
