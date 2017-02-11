@@ -7,7 +7,7 @@ Baseado no plugin do firefox iMacro
 
 Considere fazer uma doacao donate
 
-http://x.mirako.org/colaboaramores
+http://x.mirako.org/colaboramores
 
 We accept bitcoin
 
