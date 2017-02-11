@@ -1,7 +1,7 @@
 # SophiaBOT
 Instagram follower, unfollower grow network
 
-Script para conseguir likes e seguidores 
+Script para conseguir likes e seguidores <br>
 Aumentando o network<br>
 Baseado no plugin do firefox iMacro
 
